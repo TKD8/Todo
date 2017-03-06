@@ -16,7 +16,7 @@
  */
 @import 'bootstrap';
 
-a, h2, label, .text-info {
+a, h2, label {
 	color: white;
 }
 
@@ -25,11 +25,14 @@ body {
 
 }
 
-th {
+.text-info, data-method {
+	color: black;
+}
+
+th, td, .form-actions, .hero-unit{
 	background-color: white;
 }
 
 td, .form-actions {
-	background-color: #E4E4E4;
+	background-color: white;
 }
-

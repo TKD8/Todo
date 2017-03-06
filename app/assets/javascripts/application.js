@@ -12,8 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
-
 //= require bootstrap
-//= require html.sortable
 //= require bootstrap-datepicker
 //= require_tree .
